@@ -1,6 +1,5 @@
 ## Hi there 👋
 
----
 
 I am Anoob Prakash. This is a personal repo. To see my work please go to : [anoobvinu07](https://github.com/anoobvinu07)
 
